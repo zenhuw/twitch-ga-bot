@@ -32,6 +32,8 @@
   "author": "Jakub Synowiec <github@jakubsynowiec.info>",
   "license": "Apache-2.0",
   "dependencies": {
+    "@types/tmi.js": "^1.7.1",
+    "tmi.js": "^1.7.5",
     "tslib": "~2.1.0"
   },
   "volta": {
